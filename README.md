@@ -209,7 +209,7 @@ npx expo build:android
 ```
 ##  Quick Run (Windows)
 
-Just double-click `run.bat` to install dependencies and start the app.
+Just double-click `setup_and_run.bat` to install dependencies and start the app.
 
 ## Backend Compatibility
 
