@@ -207,6 +207,9 @@ npx expo build:ios
 ```bash
 npx expo build:android
 ```
+##  Quick Run (Windows)
+
+Just double-click `run.bat` to install dependencies and start the app.
 
 ## Backend Compatibility
 
